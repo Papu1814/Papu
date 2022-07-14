@@ -10,5 +10,4 @@ public class Main {
       System.out.println();
     }
   }
-}
-/bin/bash: wq: command not found
+} command not found
